@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.6_12
-Release:          1
+Release:          2
 Summary:          Miscellanneous Tools and Utilities
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
