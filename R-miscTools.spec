@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          0.6_12
-Release:          2
+Version:          0.6.16
+Release:          1
 Summary:          Miscellanneous Tools and Utilities
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.6-12.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/miscTools_0.6-16.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-Ecdat 
